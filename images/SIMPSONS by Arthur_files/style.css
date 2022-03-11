@@ -1,0 +1,73 @@
+*{
+    
+    margin: 0;
+    box-sizing: border-box;
+}
+img{
+    vertical-align: top;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: gold;
+}
+
+#wrapper{
+}
+
+header{
+    background-color: cornflowerblue;
+    color: white;
+    align-content: center;
+}
+
+header img{
+    width: 80%;
+    height: auto;
+    align-content: center;
+}
+
+main{
+    background-color:white;
+    display: inline-flex;
+    justify-content: space-between;
+    padding: 2%;
+}
+nav{
+    background-color: cornflowerblue;
+    width: 25%;
+    height: 20%;
+    text-align: center;
+}
+ul{
+    color: white;
+}
+li{
+    list-style: none;
+}
+a{
+    color: white;
+}
+
+article{
+    
+}
+article h1{
+    color: gold;
+}
+article p{
+    text-align: justify;
+}
+
+aside{
+    background-color: cornflowerblue;
+
+}
+aside img{
+
+}
+aside figcaption{
+    color: white;
+    text-align: center;
+}
